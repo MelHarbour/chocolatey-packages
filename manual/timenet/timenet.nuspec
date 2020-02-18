@@ -10,7 +10,7 @@
     <authors>ALGE-TIMING GmbH</authors>
     <projectUrl>https://alge-timing.com/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/melharbour/chocolatey-packages@master/icons/timenet.png</iconUrl>
-    <tags>timenet</tags>
+    <tags>timenet alge</tags>
     <summary>Software for timing sports events</summary>
     <description>Timing software for sports events. Integrates with hardware from ALGE-Timing.</description>
     <releaseNotes>https://alge-timing.com/alge/download/software/HistoryTimeNET2.txt</releaseNotes>
